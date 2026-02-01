@@ -1,5 +1,4 @@
 # bike-store-sql-data-cleaning
-وانسخي داخله هذا النص:
 
 ```markdown
 # 🚲 Bike Store Data Cleaning Project (MySQL)
